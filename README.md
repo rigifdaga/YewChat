@@ -3,6 +3,13 @@
 
 ![](2.jpg)
 
+**3.2. Add some creativities to the webclient**
+
+![](3.jpg)  
+
+Here is my creativity, a valentine chocolate theme 🫶🏻
+
+
 # YewChat 💬
 
 > Source code for [Let’s Build a Websocket Chat Project With Rust and Yew 0.19 🦀](https://fsjohnny.medium.com/lets-build-a-websockets-project-with-rust-and-yew-0-19-60720367399f)
